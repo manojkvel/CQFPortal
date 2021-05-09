@@ -1,3 +1,17 @@
+Pricing Hedged Exotic Under Uncertain Volatility by Finite Difference Method
+
+
+Project Implementation
+4.1 Technologies used
+ . Apache Tomcat 6.0.3 as web server.
+ . Java SDK 1.6
+ . Google Web Tool kit for UI.
+ . Java Servlets for Service layer
+4.2 Libraries used
+ . Gwt-servlet (gwt-servlet) for RPC.
+
+
+
 Server Setup and Software Deployment
 
 1. Apache Tomcat is being used as the web server for this application.
